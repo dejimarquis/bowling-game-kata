@@ -1,6 +1,8 @@
 Bowling Game Kata
 =================
-> Uncle Bob's classic implemented in *JavaScript*
+> Uncle Bob's classic kata found at [http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata)
+
+> Full Instructions found at [http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt](http://butunclebob.com/files/downloads/Bowling%20Game%20Kata.ppt)
 
 [bowling-score]: http://www.wpclipart.com/recreation/sports/bowling/bowling_scoresheet_example.png "bowling score card"
 
